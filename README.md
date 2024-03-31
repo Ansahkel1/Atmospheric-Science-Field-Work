@@ -1,2 +1,2 @@
 # Atmospheric-Science-Field-Work
-Plotting Seasonal And C climatology over Ghana.
+Plotting Seasonal And Climatology over Ghana.
